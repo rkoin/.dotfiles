@@ -35,5 +35,6 @@
     htop
     neofetch
     pinentry_qt
+    tree
   ];
 }
